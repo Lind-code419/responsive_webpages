@@ -1,0 +1,42 @@
+{
+    "user" : {
+        "fullName": "Gerrit Lindeque",
+        "photo" : "./images/20170318_120931.jpg"
+    },
+    "city" : {
+        "name" : "Kusnacht",
+        "photo" : "./images/kusnacht3-smaller.jpeg",
+        "description" : "Kusnacht in Switzerland, it was where the psychologist Carl Jung lived and practised and the scenery is very impressive in that part of the world! Close to Lake Zurich and Switzerland abounds with scenic mountains! "
+    },
+    "foreignLanguage" : {
+        "language" : "Japanese",
+        "phrases" : [{
+            "englishPhrase" : "Where is the (respected) bathroom?",
+            "foreignLanguage" : "O-tearai wa doko desu ka?"
+        },
+        {
+            "englishPhrase" : "Is everything okay?",
+            "foreignLanguage" : "Daijoubou desu ka?"
+        },
+        {
+            "englishPhrase" : "I don't know",
+            "foreignLanguage" : "Wakaranai/Wakarimasen"
+        }]
+    },
+    "favouriteSubjects" : [
+        {
+            "name" : "Electrical Project 3B.",
+            "description" : "It is fun to build things",
+            "photo" : "./images/edm.jpg"
+        },
+        {
+            "name" : "Digital Technology 2B.",
+            "description" : "Microcontrollers are intriguing!",
+            "photo" : "./images/ic.jpeg"
+        },
+        {
+            "name" : "Software Engineering",
+            "description" : "Software Engineering 2A. Very useful to learn how to build better",
+            "photo" : "./images/diskette.jpeg"
+        }]
+}
